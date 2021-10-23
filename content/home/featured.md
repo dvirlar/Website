@@ -1,7 +1,11 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+# The featured widget is the "featured publications" section
 widget: featured
+
+# Turn widget on or off
+active: false
 
 # This file represents a page section.
 headless: true
