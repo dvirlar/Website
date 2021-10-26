@@ -42,7 +42,7 @@ social:
 - icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/dvirlar
+  link: https://twitter.com/dvirlar2
 
 
 superuser: true
@@ -54,7 +54,10 @@ title: Daphne Virlar-Knight
 
 ---
 
-Hello there, and welcome to my brand new, very-much-so-under-construction website! I’m Daphne, and currently I am unemployed &mdash; woo! I quit my most recent job as an [environmental planner](https://www.rinconconsultants.com/) to take a step back from the corporate world, reconnect with my passions and realign with my values, and spend some time on a couple of passion projects. Currently, those projects include volunteering, building out this website, [learning python](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5440650#overview), and applying to every job under the sun that sparks my interests. In the words of [Kim Kardashian](https://www.youtube.com/watch?v=z3P7ST3U9Ss), "it's a full time job." When I'm resting, I enjoy listening to a [variety](https://myfavoritemurder.com/) [of](https://www.ted.com/podcasts/worklife) [podcasts](https://www.alieward.com/ologies) while walking my dog.
+Hello there! Welcome to my brand new, very-much-so-under-construction website. Currently, I'm job searching for data science positions that include programming, statistical analysis, and/or geospatial analysis, as well as positions in the environmental field. Recently,  I quit my job as an [environmental planner](https://www.rinconconsultants.com/) to take a step back from the work force, reconnect with my passions, realign with my values, and spend time pursuing passion projects. Currently, that includes volunteering, building out this website, [learning python](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5440650#overview), and applying to every job under the sun that sparks my interests. [Collectively, it's a full time job.](https://www.youtube.com/watch?v=z3P7ST3U9Ss) When I'm resting, I enjoy listening to a variety of podcasts while walking my dog.<sub> [1](https://myfavoritemurder.com/)</sub><sub>,</sub>
+<sub>[2](https://www.ted.com/podcasts/worklife)</sub><sub>,</sub> <sub>[3](https://www.alieward.com/ologies)</sub>
+
+
 
 Although this website is under construction, feel free to poke around, grab a glass of tea, and get cozy. Whether you’ve come from a random google search or a job application I’ve sent in, thank you for taking the time to stop by! I hope the pandemic has been kind to you. Failing that, I hope you’ve at least been kind to yourself. Take care, and have a wonderful day. 
 
