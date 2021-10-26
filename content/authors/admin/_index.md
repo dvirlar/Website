@@ -2,10 +2,10 @@
 bio: 
 education:
   courses:
-  - course: Masters in Environmental Science & Management
+  - course: Master's in Environmental Science & Management
     institution: Bren School of Environmental Science and Management
     year: 2020
-  - course: Bachelors in Ecology & Evolutionary Biology
+  - course: Bachelor's in Ecology & Evolutionary Biology
     institution: University of Colorado Boulder
     year: 2017
 email: ""
